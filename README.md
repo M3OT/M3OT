@@ -1,1 +1,1 @@
-# MDCMMOT：A Multi-Drone Cross-Modality dataset for Multi-Object Tracking
+# M3OT：A Multi-Drone Multi-Modality dataset for Multi-Object Tracking
